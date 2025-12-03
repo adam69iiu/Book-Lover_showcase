@@ -272,20 +272,13 @@ The application is deployed on Vercel with:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## 🤝 Contact
 
 For inquiries about this project:
 
-- **Live Demo**: [your-demo-url-here]
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [your-portfolio-url.com](https://your-portfolio-url.com)
+- **Live Demo**: [fictio.blog](https://fictio.blog)
+- **Email**: ramyar.mhamad@ukh.edu.krd
+- **Portfolio**: [ramyarx.com](https://ramyarx.com)
 
 ---
 
@@ -303,4 +296,4 @@ Built with modern web technologies and best practices:
 
 **Note**: This is a showcase repository for portfolio purposes. The source code is kept in a private repository.
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Ramyar Mohammed 
